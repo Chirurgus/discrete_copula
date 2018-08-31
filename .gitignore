@@ -1,0 +1,7 @@
+#  Everything but code (no pots or data)
+cov
+data
+export
+params
+plots
+summary
